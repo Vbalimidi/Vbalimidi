@@ -1,5 +1,5 @@
 ## Hi👋 my name is Vidya Balimidi 
-<br><hr>
+
 ### I am 3rd Year student 
 * Currently pursuing BSc computer Science (Hons Artificial Intelligence) degree at Heriot-Watt University
 * I am currently gaining skills in
