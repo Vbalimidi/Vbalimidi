@@ -1,5 +1,11 @@
 ## Hi👋 my name is Vidya Balimidi 
 <br><hr>
+### I am 3rd Year student 
+* Currently pursuing BSc computer Science (Hons Artificial Intelligence) degree at Heriot-Watt University
+* I am currently gaining skills in
+    * Web development
+    * Java development
+    * Artificial Intelligence and Machine learning
 <!--
 **Vbalimidi/Vbalimidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
